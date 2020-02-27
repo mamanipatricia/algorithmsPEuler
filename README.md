@@ -1,7 +1,8 @@
 ## ALGORITHMS
 
-- NUMBER 1.
 ### Exercise 37 from Project Euler
+
+- NUMBER 1.
 - To run, type on console:
 ```
 $ python truncatablePrimes.py
